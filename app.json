@@ -1,0 +1,9 @@
+{
+  "name": "PdfxFoolsApp",
+  "displayName": "PdfxFoolsApp",
+  "extra": {
+    "eas": {
+      "projectId": "c6511a99-22ef-432f-a9d5-8449f4b875e9"
+    }
+  }
+}
